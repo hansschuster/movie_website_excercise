@@ -28,3 +28,4 @@ as argument
 ## Further Links
 
 * [Udacity: Full Stack Web Developer Nanodegree](https://de.udacity.com/course/full-stack-web-developer-nanodegree--nd004/)
+* [Udacity: Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
