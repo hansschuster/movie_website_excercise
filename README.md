@@ -27,4 +27,4 @@ as argument
 
 ## Further Links
 
-* [Udacity Full Stack Web Developer Nanodegree](https://de.udacity.com/course/full-stack-web-developer-nanodegree--nd004/)
+* [Udacity: Full Stack Web Developer Nanodegree](https://de.udacity.com/course/full-stack-web-developer-nanodegree--nd004/)
